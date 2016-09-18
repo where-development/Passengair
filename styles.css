@@ -1,0 +1,11 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  font-family: 'Roboto';
+  font-size: 14px;
+  padding-top: 10px;
+}
+i{
+ margin-right: 5px;
+}
